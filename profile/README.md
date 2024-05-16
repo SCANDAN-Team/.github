@@ -12,11 +12,11 @@ Dicom format, ...
 
 ## Projects
 
-### DL project
-[Available here](https://github.com/WP-Teams/DL_Project)
+### DL Work-Package
+[Available here](https://github.com/SCANDAN-Team/DL_Work_Package)
 
-### SVM project
-[Available here](https://github.com/WP-Teams/SVM_Project)
+### SVM Work-Package
+[Available here](https://github.com/SCANDAN-Team/SVM_Work_Package)
 
-### Phenotypes project
-[Available here](https://github.com/WP-Teams/Phenotypes_Project)
+### Phenotypes Work-Package
+[Available here](https://github.com/SCANDAN-Team/Phenotypes_Work_Package)
