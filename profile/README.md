@@ -1,14 +1,12 @@
 # SCANDAN Project
 
+## Project Description
+
+The SCANDAN project aims to [todo what we put public here]
+
 ## Onboarding 
 
-Get authorisation (todo how to)
-
-Checkout the [Environment Setup repository](https://github.com/WP-Teams/Environment_Setup) to access Safe Haven and setup your environment. 
-
-## Data Description
-
-Dicom format, ...
+Checkout the [Environment Setup repository](https://github.com/WP-Teams/Environment_Setup) to start. 
 
 ## Projects
 
